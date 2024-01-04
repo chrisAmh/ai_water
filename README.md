@@ -1,1 +1,1 @@
-# ai_water
+# water_quality_prediction
